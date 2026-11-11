@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       mensaje:
-        description: "Dame el mensaje por aqui -->"
+        description: "Dame el mensaje por aqui  -->"
         required: true
         type: string
 
